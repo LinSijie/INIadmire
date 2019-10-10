@@ -1,3 +1,3 @@
-# To those awesome student
+# To those awesome teachers
 ---
 - (continued)
