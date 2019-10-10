@@ -2,4 +2,5 @@
 ---
 ## Rules
 - pull -> merge before you push
-- The list is in ./admire/admireList.md
+- The admire list is in ./admire/admireList.md
+- The awesome teacher list is in ./awesome
