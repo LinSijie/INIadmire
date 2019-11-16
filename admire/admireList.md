@@ -6,4 +6,5 @@
 - 黄老师（513高分选手 / 卷笔刀拥有者 / 足球界闪亮新星 / 身材巨好 / 巨能吃）
 - 苏老师（恋爱指南 / Pressure Monster）
 - zzx老师（面试收割机 / 精致男孩天天洗头 / 手风琴演奏者）
-- 林老师 (Admire bot / Pressure Monster)
+- 林老师（Admire bot / Pressure Monster）
+- 王校长（德州和os是可以并存的）
